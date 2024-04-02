@@ -1,2 +1,1 @@
-Gym Website.
-Allow to get to know about the gym
+Created a Gym website that can be easility hosted on tor network as it doesn't contains any javascript
